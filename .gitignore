@@ -1,0 +1,9 @@
+// 编写一个标准的 Android 项目 .gitignore 文件，忽略 .gradle, build, 和 local.properties
+# Built application files
+.gradle/
+build/
+*.iml
+local.properties
+.idea/
+Captures/
+.DS_Store

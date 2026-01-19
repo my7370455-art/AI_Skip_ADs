@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Ad Skipper</string>
+    <string name="accessibility_service_description">This service scans screen content to automatically detect and skip ads.</string>
+</resources>
